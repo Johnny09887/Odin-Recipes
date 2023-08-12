@@ -12,12 +12,8 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-.titulo,.sub,.pasos,.ingredientes{
+.titulo,.sub,.pasos,.ingredientes,.lista,
+.paso01,.parrafo{
     font-family: Arial, Helvetica, sans-serif;
 }
-.lista,.pasos01{
-    font-family: Arial, Helvetica, sans-serif;
-}
-.parrafo{
-    font-family: Arial, Helvetica, sans-serif;
-}
+

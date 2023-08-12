@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(167, 228, 216);
+   margin: 0;
+   position: relative;
+   height: 100vh;
+}
+.titulo{
+    text-align: center;
+}
+.imagen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo,.subtitulo,.parrafo,.titIngredientes,
+.ingredientes,.titPasos,.pasos{
+font-family: Arial, Helvetica, sans-serif;
+}
