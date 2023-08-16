@@ -2,6 +2,22 @@ body{
     background-color: rgb(167, 228, 216);
 }
 .titulo{
-    color: rgb(2, 2, 2);
+    color:black;
     text-align: center;
+}
+.listado{
+    text-align: center;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.pollo,.carne,.puerco{
+    background-color: darkcyan;
+    border: 2px solid white;
+    width: 300px;
+    padding: 40px;
+    margin: 20px;
+    margin-left: 500px;
+}
+.colorpollo,.colorcarne,.colorpuerco{
+    color: black;
 }
